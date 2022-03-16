@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🌱 I’m currently learning ...
-a href="https://isocpp.org/" target="_blank"><img src="https://img.shields.io/badge/C++-#00599C?style=flat-square&logo=C++&logoColor=white"/></a>
+<a href="https://isocpp.org/" target="_blank"><img src="https://img.shields.io/badge/C++-#00599C?style=flat-square&logo=C++&logoColor=white"/></a>
 
 
 
