@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-
-**hykk-git/hykk-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+Computer Engineering student
 
 - 🌱 I’m currently learning ...
 <br><a href="" target="_blank"><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=Cplusplus&logoColor=white"/></a>
