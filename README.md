@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Computer Engineering student
+I'm HeeYeeun Kim, Computer Engineering student
 
 - 🌱 I’m currently learning ...
 <br><a href="" target="_blank"><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=Cplusplus&logoColor=white"/></a>
