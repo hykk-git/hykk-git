@@ -6,8 +6,8 @@
 Here are some ideas to get you started:
 
 - 🌱 I’m currently learning ...
---<a href="" target="_blank"><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=Cplusplus&logoColor=white"/></a>
---<a href="" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
+<br><a href="" target="_blank"><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=Cplusplus&logoColor=white"/></a>
+<br><a href="" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
 
 
 - 👯 I’m looking to collaborate on ...
