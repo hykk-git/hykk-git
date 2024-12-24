@@ -10,3 +10,4 @@ I'm HeeYeeun Kim, Computer Engineering student
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"/></a>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hykk-git&show_icons=true&theme=radical)
